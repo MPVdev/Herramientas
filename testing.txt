@@ -11,3 +11,5 @@ Paul: Esta entre Africa y Asia
 lechuga: ¿Qué es GitHub?
 
 Paul: es una plataforma de versionamiento en la nube
+
+lechuga: ¿Qué es un repositorio en GitHub?
