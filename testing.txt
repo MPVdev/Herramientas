@@ -5,3 +5,5 @@ Lechuga: ¿Cuál es el océano más grande del mundo?
 Paul: El Oceano Pacifico
 
 lechuga: ¿En qué continente se encuentra Egipto?
+
+Paul: Esta entre Africa y Asia
