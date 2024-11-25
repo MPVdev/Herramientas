@@ -9,3 +9,5 @@ lechuga: ¿En qué continente se encuentra Egipto?
 Paul: Esta entre Africa y Asia
 
 lechuga: ¿Qué es GitHub?
+
+Paul: es una plataforma de versionamiento en la nube
