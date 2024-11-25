@@ -15,3 +15,5 @@ Paul: es una plataforma de versionamiento en la nube
 lechuga: ¿Qué es un repositorio en GitHub?
 
 Paul: un repositorio es un espacio en la nube donde se almacenara el proyecto
+
+lechuga: ¿Qué es un commit en GitHub?
